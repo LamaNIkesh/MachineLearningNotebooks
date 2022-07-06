@@ -5,7 +5,7 @@ To run the notebooks in this repository use one of following options.
 ## **Option 1: Use Azure Notebooks**
 Azure Notebooks is a hosted Jupyter-based notebook service in the Azure cloud. Azure Machine Learning Python SDK is already pre-installed in the Azure Notebooks `Python 3.6` kernel.
 
-1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://aka.ms/aml-clone-azure-notebooks)
+1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://aka.ms/aml-clone-azure-notebooks) `photo not rendering`
 [Import sample notebooks ](https://aka.ms/aml-clone-azure-notebooks) into Azure Notebooks
 1. Follow the instructions in the [Configuration](configuration.ipynb) notebook to create and connect to a workspace
 1. Open one of the sample notebooks
